@@ -1,3 +1,4 @@
+
 monto_total = float(input("Ingrese el monto total de la compra: "))
 if monto_total >= 100:
     descuento = 0.1 * monto_total

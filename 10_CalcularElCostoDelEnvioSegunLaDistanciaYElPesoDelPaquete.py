@@ -1,3 +1,4 @@
+
 distancia = float(input("Ingrese la distancia en kilómetros: "))
 peso = float(input("Ingrese el peso del paquete en kilogramos: "))
 costo = 0
