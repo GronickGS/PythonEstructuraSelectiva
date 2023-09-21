@@ -24,6 +24,27 @@ Este repositorio contiene 10 ejercicios de Python que se centran en el uso de es
 
 10. **Calcular el Costo del Envío Según la Distancia y el Peso del Paquete:** Calcula el costo de envío de un paquete según la distancia y el peso.
 
+11. **Cálculo del Salario Según el Nivel de Empleado:** Calcula el salario de un empleado según su nivel y las horas trabajadas, con diferentes tarifas por hora para cada nivel.
+
+12. **Calculadora de Impuestos de Ingresos:** Calcula el impuesto a pagar según un sistema de impuestos progresivos basado en el ingreso anual.
+
+13. **Verificación de Año Bisiesto:** Verifica si un año ingresado por el usuario es un año bisiesto o no.
+
+14. **Ordenar Tres Números:** Lee tres números ingresados por el usuario y muestra los números en orden ascendente.
+
+15. **Clasificación de Triángulos:** Clasifica un triángulo según sus lados (equilátero, isósceles o escaleno) y sus ángulos (rectángulo, obtuso o agudo) a partir de las longitudes de los lados ingresadas por el usuario.
+
+16. **Calculadora de Descuento de Compra:** Calcula el precio final de un artículo después de aplicar un descuento basado en un código ingresado por el usuario.
+
+17. **Calculadora de Envío de Paquetes:** Calcula el costo de envío de un paquete según su peso y distancia de envío, con tarifas variables.
+
+18. **Calculadora de Aprobación de Préstamo Hipotecario:** Determina si un usuario es elegible para un préstamo hipotecario según su salario anual y la tasa de interés.
+
+19. **Juego de Adivinar el Número Secreto:** Genera un número secreto aleatorio y permite al usuario adivinarlo con un número limitado de intentos.
+
+20. **Simulador de Piedra, Papel y Tijeras:** Juega al piedra, papel y tijeras contra la computadora y muestra el resultado.
+
+
 ## Cómo Usar
 
 Cada ejercicio se encuentra en un archivo Python separado. Puedes copiar y pegar el código de cada ejercicio en tu entorno de desarrollo Python y ejecutarlo para ver los resultados. Sigue las instrucciones en cada ejercicio para proporcionar la entrada necesaria.
